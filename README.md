@@ -9,5 +9,6 @@ test
 * test 3
 
 El repositorio de Juan.
+
 Este es uno de mis gatos.
 ![foto](linus.jpg)
